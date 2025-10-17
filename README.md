@@ -26,6 +26,7 @@ Hi! I'm Roman, a passionate fullstack developer with expertise in building moder
 
 ---
 
+**[Link To My CV (Google Drive)](https://drive.google.com/file/d/1FLBdt33qJH5fPshNWqHuLL23J_KDKto1/view?usp=sharing)**
 
 ## 🛠️ Tech Stack
 
