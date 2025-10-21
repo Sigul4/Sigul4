@@ -26,7 +26,7 @@ Hi! I'm Roman, a passionate fullstack developer with expertise in building moder
 
 ---
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ua.linkedin.com/in/roman-tsigulov/)
 
 **[Link To My CV (Google Drive)](https://drive.google.com/file/d/1FLBdt33qJH5fPshNWqHuLL23J_KDKto1/view?usp=sharing)**
 
